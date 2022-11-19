@@ -34,7 +34,7 @@ retry = 5
 delay = 2
 timeout = 3
 time_stamp=datetime.now().replace(microsecond=0).isoformat()
-hostname = "localhost"
+hostname = "nocdbserver.southafricanorth.cloudapp.azure.com"
 port_id = "5432"
 database = "integraDB"
 username = "postgres"
